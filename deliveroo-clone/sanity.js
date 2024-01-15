@@ -1,0 +1,1 @@
+import snaityClient from  "@sanity/client"
